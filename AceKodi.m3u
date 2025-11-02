@@ -343,21 +343,3 @@ http://vlc.shickat.me:8000/pid/868a6187d6aeec65ded84bd777814c9f7b7a9027/stream.m
 #EXTINF:1,Ziggo Sport 6 NL --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/9231f38e71a85ad24b4c11a5e360992e30c916ed/stream.mp4
-
-#EXTINF:1,Info
-
-https://acestreamsearch.net/en - Buscar por ELCANO, NEW ERA y SHICKAT.ME
-
-https://ipfs.io/ipns/elcano.top
-https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/
-https://ipfs.io/ipns/k51qzi5uqu5di00365631hrj6m22vsjudpbtw8qpfw6g08gf3lsqdn6e89anq5/
-
-https://proxy.zeronet.dev/
-
-https://shickat.me/
-http://vlc.shickat.me:8000/pid/b04372b9543d763bd2dbd2a1842d9723fd080076/stream.mp4
-https://acevlc.shickat.me/
-https://www.platinsport.com
-http://192.168.0.193:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
-
- 
