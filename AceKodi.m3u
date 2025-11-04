@@ -4,15 +4,15 @@
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/bba1905fcd1c4975aec544047bf8e4cd23ce3fe0/stream.mp4
 
-#EXTINF:1,beIN SPORTS 1 --> NEW ERA
+#EXTINF:1,beIN SPORTS 1?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/beb0ebdca8f9678880f54916dfb60a4c715f3ad2/stream.mp4
 
 #EXTINF:1,beIN SPORTS 2 --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/edb507e38394d614c9ff55805c9d354ae13210bc/stream.mp4
+http://vlc.shickat.me:8000/pid/edb507e38394d614c9ff55805c9d354ae13210bc/stream.mp
 
-#EXTINF:1,beIN SPORTS 2 --> NEW ERA
+#EXTINF:1,beIN SPORTS 2?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/ade24d45447980731a99ef9b8dbb00d9017b5b3a/stream.mp4
 
@@ -20,7 +20,7 @@ http://vlc.shickat.me:8000/pid/ade24d45447980731a99ef9b8dbb00d9017b5b3a/stream.m
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/731bd3336ec0986ff9100efe40dbaf1473a22cf8/stream.mp4
 
-#EXTINF:1,beIN SPORTS 3 --> NEW ERA
+#EXTINF:1,beIN SPORTS 3?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/fc8fdbc7dc812c896cc742f0248c67a7ff44dade/stream.mp4
 
@@ -68,91 +68,56 @@ http://vlc.shickat.me:8000/pid/897e73c9d578848f596585314ecb9ae067c0e229/stream.m
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/12ea555d431dbe51fc8e4ca745aec09fe22a4865/stream.mp4
 
-#EXTINF:1,ELEVEN DAZN 1 PT --> SPORT TV
+#EXTINF:1,ELEVEN SPORTS 1 HD PL --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/7ac2d74ef6df9d15012992d7e0e635a95f58c652/stream.mp4
+
+#EXTINF:1,ELEVEN SPORTS 1 PL --> SPORT TV
+#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
+http://vlc.shickat.me:8000/pid/14407b00d454cb7dc0d70aa26e8bbc554f457f00/stream.mp4
+
+#EXTINF:1,ELEVEN SPORTS 2 PL --> SPORT TV
+#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
+http://vlc.shickat.me:8000/pid/54a4a28882d3cae1ca19de5d4b022ebea40351f9/stream.mp4
+
+#EXTINF:1,ELEVEN SPORTS 3 PL --> SPORT TV
+#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
+http://vlc.shickat.me:8000/pid/b146ee4b6e16c9df58e27bd02ffd6cea840ff212/stream.mp4
+
+
+#EXTINF:1,ELEVEN SPORTS 4 PL --> SPORT TV
+#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
+http://vlc.shickat.me:8000/pid/458a0ddd7d193f6d2750cd14d03a47f47a808e09/stream.mp4
 
 #EXTINF:1,ELEVEN DAZN 1 PT --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/36cad67fed5a739757a9db844a551aa845a8d51b/stream.mp4
 
-#EXTINF:1,ELEVEN DAZN 1 PT --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/14407b00d454cb7dc0d70aa26e8bbc554f457f00/stream.mp4
-
 #EXTINF:1,ELEVEN DAZN 2 PT --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/d08013df6e437a1fdf1e0c34f573fdf6a40c7fce/stream.mp4
-
-#EXTINF:1,ELEVEN DAZN 2 PT --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/54a4a28882d3cae1ca19de5d4b022ebea40351f9/stream.mp4
 
 #EXTINF:1,ELEVEN DAZN 3 PT --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/dae7d1251f069516cc0a9c8f15f6639d2a17df1e/stream.mp4
 
-#EXTINF:1,ELEVEN DAZN 3 PT --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/b146ee4b6e16c9df58e27bd02ffd6cea840ff212/stream.mp4
-
 #EXTINF:1,ELEVEN DAZN 4 PT --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/0f32c0131a2d9444996410801f4e18b04384db98/stream.mp4
-
-#EXTINF:1,ELEVEN DAZN 4 PT --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/458a0ddd7d193f6d2750cd14d03a47f47a808e09/stream.mp4
 
 #EXTINF:1,ELEVEN DAZN 5 PT --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a/stream.mp4
 
-#EXTINF:1,ELEVEN DAZN 6 PT --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/50b6d2b5fd59fefb9f4fd2176994d418f2b94a80/stream.mp4
-
 #EXTINF:1,Eurosport 1 DE --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/b8cad4710b1c3b2b84a82c1ece40c08517b8f766/stream.mp4
-
-#EXTINF:1,Eurosport360 1 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/22df9a5fae8cae52fec925c2bb44b74f96a4200c/stream.mp4
-
-#EXTINF:1,Eurosport360 2 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/57f95543ac41656d473b1a27123fc413388a728c/stream.mp4
-
-#EXTINF:1,Eurosport360 3 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/7adbca42657ace1fe228142d351d0896974bbe0c/stream.mp4
-
-#EXTINF:1,Eurosport360 4 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64/stream.mp4
-
-#EXTINF:1,Eurosport360 5 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/148921c4dda96df445e253d6f26c4d092bf85809/stream.mp4
-
-#EXTINF:1,Eurosport360 6 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/005ac522315699bd93bbf743329eb2f3c347dc3f/stream.mp4
-
-#EXTINF:1,Eurosport360 7 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/b18657f64507cc859cd7edef1aef90feb053e791/stream.mp4
-
-#EXTINF:1,Eurosport360 8 DE --> SPORT TV
-#EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/8f4f572005ca2557743474087aa622693ba9b5fe/stream.mp4
 
 #EXTINF:1,ESPN AR --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/4bf4431b4815f07c1b3749f5a10f905ba566cd47/stream.mp4
 
-#EXTINF:1,ESPN 2 AR --> NEW ERA
+#EXTINF:1,ESPN 2 AR?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/ab7f9cc29ad09ee9575fed758ab317c818fdc491/stream.mp4
 
@@ -160,7 +125,7 @@ http://vlc.shickat.me:8000/pid/ab7f9cc29ad09ee9575fed758ab317c818fdc491/stream.m
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/d872a44653bf2ad232d5f8476597754b69e3d56c/stream.mp4
 
-#EXTINF:1,ESPN 4 AR --> NEW ERA
+#EXTINF:1,ESPN 4 AR?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/216d20acdaf01a196eda71c81a7a7d5bcbe5ed58/stream.mp4
 
