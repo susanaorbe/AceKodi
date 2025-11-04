@@ -93,7 +93,7 @@ http://vlc.shickat.me:8000/pid/458a0ddd7d193f6d2750cd14d03a47f47a808e09/stream.m
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/36cad67fed5a739757a9db844a551aa845a8d51b/stream.mp4
 
-#EXTINF:1,ELEVEN DAZN 2 PT --> SPORT TV
+#EXTINF:1,ELEVEN DAZN 2 PT --> SPORT TV <--
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/d08013df6e437a1fdf1e0c34f573fdf6a40c7fce/stream.mp4
 
