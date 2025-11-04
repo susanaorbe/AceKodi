@@ -113,7 +113,7 @@ http://vlc.shickat.me:8000/pid/4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a/stream.m
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/b8cad4710b1c3b2b84a82c1ece40c08517b8f766/stream.mp4
 
-#EXTINF:1,ESPN AR --> NEW ERA
+#EXTINF:1,ESPN AR --> NEW ERA*
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/4bf4431b4815f07c1b3749f5a10f905ba566cd47/stream.mp4
 
