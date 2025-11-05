@@ -4,13 +4,19 @@
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/bba1905fcd1c4975aec544047bf8e4cd23ce3fe0/stream.mp4
 
+#EXTINF:1,beIN SPORTS 1 --> SPORT TV Sin referrer
+http://vlc.shickat.me:8000/pid/bba1905fcd1c4975aec544047bf8e4cd23ce3fe0/stream.mp4
+
 #EXTINF:1,beIN SPORTS 1?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
 http://vlc.shickat.me:8000/pid/beb0ebdca8f9678880f54916dfb60a4c715f3ad2/stream.mp4
 
 #EXTINF:1,beIN SPORTS 2 --> SPORT TV
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
-http://vlc.shickat.me:8000/pid/edb507e38394d614c9ff55805c9d354ae13210bc/stream.mp
+http://vlc.shickat.me:8000/pid/edb507e38394d614c9ff55805c9d354ae13210bc/stream.mp4
+
+#EXTINF:1,beIN SPORTS 2 --> SPORT TV Sin referrer
+http://vlc.shickat.me:8000/pid/edb507e38394d614c9ff55805c9d354ae13210bc/stream.mp4
 
 #EXTINF:1,beIN SPORTS 2?? --> NEW ERA
 #EXTVLCOPT:http-referrer=https://cdnapi.codev8.net/ 
