@@ -4,9 +4,9 @@
 http://vlc.shickat.me:8000/pid/599a2fda91aa55703e2c5a51562d9dbf5d3d31d9/stream.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Primera Federación" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 3a57 --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/b40212c43e96e97542ea00f2129212a054853a57/stream.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://vlc.shickat.me:8000/pid/c1ee6e1e0ef5928d8261f855c417de21794f437d/stream.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
 http://vlc.shickat.me:8000/pid/8677d339ecddd75165c0015025f598b6215974cf/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 FHD ad6d --> NEW ERA
@@ -58,7 +58,7 @@ http://vlc.shickat.me:8000/pid/7e90956539f4e1318a63f3960e4f75c7c7c5a3b8/stream.m
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto 1" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD 8f98 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD 8f98 --> NEW ERA
 http://vlc.shickat.me:8000/pid/217e5f172d4c704c5eec739fed672a53521e8f98/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2" group-title="DAZN BALONCESTO", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
 http://vlc.shickat.me:8000/pid/965b249321adbf3a1459f94c17f624022889fb8d/stream.mp4
@@ -512,7 +512,7 @@ http://vlc.shickat.me:8000/pid/c7c81acdd1a03ecc418c94c2f28e2adb0556c40b/stream.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS SD b785 --> ELCANO
 http://vlc.shickat.me:8000/pid/0e5d8c9724fa9163f49096b70484e315251eb785/stream.mp4
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="" group-title="TENNIS", TENNIS CHANNEL 23ac --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="" group-title="TENNIS", TENNIS CHANNEL 23ac --> SPORT TV
 http://vlc.shickat.me:8000/pid/039fae21c9e7e5214d3d898cba80863e37e623ac/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="" group-title="TENNIS", TENNIS CHANNEL 2 8050 --> NEW ERA
 http://vlc.shickat.me:8000/pid/aa31953b8af44b461102852d5b1247eea95b8050/stream.mp4
