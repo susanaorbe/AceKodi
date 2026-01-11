@@ -1,20 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
-
-#EXTGRP: group-title="1RFEF"
-#EXTGRP: group-title="DAZN 1..4"
-#EXTGRP: group-title="DAZN BALONCESTO"
-#EXTGRP: group-title="DEPORTES TDT"
-#EXTGRP: group-title="EUROSPORT"
-#EXTGRP: group-title="FORMULA 1"
-#EXTGRP: group-title="INTERNACIONAL"
-#EXTGRP: group-title="HYPERMOTION"
-#EXTGRP: group-title="LA LIGA"
-#EXTGRP: group-title="LIGA DE CAMPEONES"
-#EXTGRP: group-title="MOTOR"
-#EXTGRP: group-title="MOVISTAR"
-#EXTGRP: group-title="MOVISTAR DEPORTES"
-#EXTGRP: group-title="TENNIS"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://vlc.shickat.me:8000/pid/c1ee6e1e0ef5928d8261f855c417de21794f437d/stream.mp4
@@ -72,13 +57,13 @@ http://vlc.shickat.me:8000/pid/eb884f77ce8815cf1028c4d85e8b092c27ea1693/stream.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN 1..4", DAZN 4 a3b8 --> SPORT TV
 http://vlc.shickat.me:8000/pid/7e90956539f4e1318a63f3960e4f75c7c7c5a3b8/stream.mp4
 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
+#EXTINF:-1 tvg-logo="DAZN Baloncesto" tvg-id="" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f/stream.mp4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DAZN BALONCESTO", DAZN BALONCESTO 1 FHD 8f98 --> NEW ERA
+#EXTINF:-1 tvg-logo="DAZN Baloncesto 1" tvg-id="" group-title="DAZN BALONCESTO", DAZN BALONCESTO 1 FHD 8f98 --> NEW ERA
 http://vlc.shickat.me:8000/pid/217e5f172d4c704c5eec739fed672a53521e8f98/stream.mp4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DAZN BALONCESTO", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto 2" group-title="DAZN BALONCESTO", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
 http://vlc.shickat.me:8000/pid/965b249321adbf3a1459f94c17f624022889fb8d/stream.mp4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DAZN BALONCESTO", DAZN BALONCESTO 3 FHD 2cae --> NEW ERA
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto 3" group-title="DAZN BALONCESTO", DAZN BALONCESTO 3 FHD 2cae --> NEW ERA
 http://vlc.shickat.me:8000/pid/f4db7197aa4b9487014ba348fca3f78121ac2cae/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="DEPORTES TDT", GOL PLAY FHD 0612 --> NEW ERA
@@ -120,21 +105,21 @@ http://vlc.shickat.me:8000/pid/6176281b9c46a5621a0e88524f8dc621f173b8e0/stream.m
 http://vlc.shickat.me:8000/pid/7aa9cc819c6fa781dea6b4de3aa5393258b766d8/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 32c6 --> SPORT TV
 http://vlc.shickat.me:8000/pid/ac675c82d6dfd4a201532c18b42e48dacb7c32c6/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 1 (DE) 200c --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-1.intl" group-title="EUROSPORT", Eurosport360 HD 1 (DE) 200c --> SPORT TV
 http://vlc.shickat.me:8000/pid/22df9a5fae8cae52fec925c2bb44b74f96a4200c/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 2 (DE) 728c --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-2.intl" group-title="EUROSPORT", Eurosport360 HD 2 (DE) 728c --> SPORT TV
 http://vlc.shickat.me:8000/pid/57f95543ac41656d473b1a27123fc413388a728c/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 3 (DE) be0c --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-3.intl" group-title="EUROSPORT", Eurosport360 HD 3 (DE) be0c --> SPORT TV
 http://vlc.shickat.me:8000/pid/7adbca42657ace1fe228142d351d0896974bbe0c/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 4 (DE) 1f64 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-4.intl" group-title="EUROSPORT", Eurosport360 HD 4 (DE) 1f64 --> SPORT TV
 http://vlc.shickat.me:8000/pid/1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 5 (DE) 5809 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-5.intl" group-title="EUROSPORT", Eurosport360 HD 5 (DE) 5809 --> SPORT TV
 http://vlc.shickat.me:8000/pid/148921c4dda96df445e253d6f26c4d092bf85809/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 6  (DE) dc3f --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-6.intl" group-title="EUROSPORT", Eurosport360 HD 6  (DE) dc3f --> SPORT TV
 http://vlc.shickat.me:8000/pid/005ac522315699bd93bbf743329eb2f3c347dc3f/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 7  (DE) e791 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-7.intl" group-title="EUROSPORT", Eurosport360 HD 7  (DE) e791 --> SPORT TV
 http://vlc.shickat.me:8000/pid/b18657f64507cc859cd7edef1aef90feb053e791/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 8  (DE) b5fe --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-8.intl" group-title="EUROSPORT", Eurosport360 HD 8  (DE) b5fe --> SPORT TV
 http://vlc.shickat.me:8000/pid/8f4f572005ca2557743474087aa622693ba9b5fe/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bb29 --> NEW ERA
