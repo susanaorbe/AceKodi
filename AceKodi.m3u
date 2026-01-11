@@ -56,18 +56,18 @@ http://vlc.shickat.me:8000/pid/eb884f77ce8815cf1028c4d85e8b092c27ea1693/stream.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN 1..4", DAZN 4 a3b8 --> SPORT TV
 http://vlc.shickat.me:8000/pid/7e90956539f4e1318a63f3960e4f75c7c7c5a3b8/stream.mp4
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZBA.png" tvg-id="DAZN Baloncesto" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f/stream.mp4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZBA.png" tvg-id="DAZN Baloncesto 1" group-title="DAZN BALONCESTO", DAZN BALONCESTO 1 FHD 8f98 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto 1" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD 8f98 --> NEW ERA
 http://vlc.shickat.me:8000/pid/217e5f172d4c704c5eec739fed672a53521e8f98/stream.mp4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB2.png" tvg-id="DAZN Baloncesto 2" group-title="DAZN BALONCESTO", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2" group-title="DAZN BALONCESTO", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
 http://vlc.shickat.me:8000/pid/965b249321adbf3a1459f94c17f624022889fb8d/stream.mp4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB3.png" tvg-id="DAZN Baloncesto 3" group-title="DAZN BALONCESTO", DAZN BALONCESTO 3 FHD 2cae --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" tvg-id="DAZN Baloncesto 3" group-title="DAZN BALONCESTO", DAZN BALONCESTO 3 FHD 2cae --> NEW ERA
 http://vlc.shickat.me:8000/pid/f4db7197aa4b9487014ba348fca3f78121ac2cae/stream.mp4
 
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="DEPORTES TDT", GOL PLAY FHD 0612 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES TDT", GOL FHD 0612 --> NEW ERA
 http://vlc.shickat.me:8000/pid/9fb99c40a2c45d5c5342b30626eb56140f980612/stream.mp4
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="DEPORTES TDT", GOL PLAY FHD 4a3a --> NEW ERA
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES TDT", GOL FHD 4a3a --> NEW ERA
 http://vlc.shickat.me:8000/pid/b2d560741c006fc5e4a42412bb52dbd25a6a4a3a/stream.mp4
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES TDT", REAL MADRID TV HD 891e --> NEW ERA
 http://vlc.shickat.me:8000/pid/7a955964c91c66311eef9137a96332352dbb891e/stream.mp4
@@ -104,21 +104,21 @@ http://vlc.shickat.me:8000/pid/6176281b9c46a5621a0e88524f8dc621f173b8e0/stream.m
 http://vlc.shickat.me:8000/pid/7aa9cc819c6fa781dea6b4de3aa5393258b766d8/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 32c6 --> SPORT TV
 http://vlc.shickat.me:8000/pid/ac675c82d6dfd4a201532c18b42e48dacb7c32c6/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-1.intl" group-title="EUROSPORT", Eurosport360 HD 1 (DE) 200c --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 1 (DE) 200c --> SPORT TV
 http://vlc.shickat.me:8000/pid/22df9a5fae8cae52fec925c2bb44b74f96a4200c/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-2.intl" group-title="EUROSPORT", Eurosport360 HD 2 (DE) 728c --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 2 (DE) 728c --> SPORT TV
 http://vlc.shickat.me:8000/pid/57f95543ac41656d473b1a27123fc413388a728c/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-3.intl" group-title="EUROSPORT", Eurosport360 HD 3 (DE) be0c --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 3 (DE) be0c --> SPORT TV
 http://vlc.shickat.me:8000/pid/7adbca42657ace1fe228142d351d0896974bbe0c/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-4.intl" group-title="EUROSPORT", Eurosport360 HD 4 (DE) 1f64 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 4 (DE) 1f64 --> SPORT TV
 http://vlc.shickat.me:8000/pid/1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-5.intl" group-title="EUROSPORT", Eurosport360 HD 5 (DE) 5809 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 5 (DE) 5809 --> SPORT TV
 http://vlc.shickat.me:8000/pid/148921c4dda96df445e253d6f26c4d092bf85809/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-6.intl" group-title="EUROSPORT", Eurosport360 HD 6  (DE) dc3f --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 6  (DE) dc3f --> SPORT TV
 http://vlc.shickat.me:8000/pid/005ac522315699bd93bbf743329eb2f3c347dc3f/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-7.intl" group-title="EUROSPORT", Eurosport360 HD 7  (DE) e791 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 7  (DE) e791 --> SPORT TV
 http://vlc.shickat.me:8000/pid/b18657f64507cc859cd7edef1aef90feb053e791/stream.mp4
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="E360-8.intl" group-title="EUROSPORT", Eurosport360 HD 8  (DE) b5fe --> SPORT TV
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="EUROSPORT", Eurosport360 HD 8  (DE) b5fe --> SPORT TV
 http://vlc.shickat.me:8000/pid/8f4f572005ca2557743474087aa622693ba9b5fe/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bb29 --> NEW ERA
@@ -176,7 +176,7 @@ http://vlc.shickat.me:8000/pid/0f32c0131a2d9444996410801f4e18b04384db98/stream.m
 http://vlc.shickat.me:8000/pid/458a0ddd7d193f6d2750cd14d03a47f47a808e09/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="INTERNACIONAL", ELEVEN DAZN 5 808a --> SPORT TV
 http://vlc.shickat.me:8000/pid/4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="INTERNACIONAL", ELEVEN DAZN 6 4a80 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="" group-title="INTERNACIONAL", ELEVEN DAZN 6 4a80 --> SPORT TV
 http://vlc.shickat.me:8000/pid/50b6d2b5fd59fefb9f4fd2176994d418f2b94a80/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="INTERNACIONAL", BT Sport 1 [UK] 9bce --> SPORT TV
 http://vlc.shickat.me:8000/pid/fc5089d8e1519872fdf951779ccbca913acc9bce/stream.mp4
@@ -190,33 +190,33 @@ http://vlc.shickat.me:8000/pid/5f966c123759de46dff29c379266b7a403452033/stream.m
 http://vlc.shickat.me:8000/pid/4b4907de51ec11087d4bed5876f2a0c68264f442/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="INTERNACIONAL", ESPN2 [US] 8394 --> SPORT TV
 http://vlc.shickat.me:8000/pid/664eb5fe460b96941aed633959a845b185cd8394/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="" group-title="INTERNACIONAL", ESPN ARGENTINA cd47 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="INTERNACIONAL", ESPN ARGENTINA cd47 --> NEW ERA
 http://vlc.shickat.me:8000/pid/4bf4431b4815f07c1b3749f5a10f905ba566cd47/stream.mp4
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="INTERNACIONAL", ESPN ARGENTINA 2 HD c491 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN 2" group-title="INTERNACIONAL", ESPN ARGENTINA 2 HD c491 --> NEW ERA
 http://vlc.shickat.me:8000/pid/ab7f9cc29ad09ee9575fed758ab317c818fdc491/stream.mp4
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="INTERNACIONAL", ESPN ARGENTINA 3 HD d56c --> NEW ERA
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN 3" group-title="INTERNACIONAL", ESPN ARGENTINA 3 HD d56c --> NEW ERA
 http://vlc.shickat.me:8000/pid/d872a44653bf2ad232d5f8476597754b69e3d56c/stream.mp4
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="" group-title="INTERNACIONAL", ESPN ARGENTINA 4 HD ed58 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN 4" group-title="INTERNACIONAL", ESPN ARGENTINA 4 HD ed58 --> NEW ERA
 http://vlc.shickat.me:8000/pid/216d20acdaf01a196eda71c81a7a7d5bcbe5ed58/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="" group-title="INTERNACIONAL", ESPN 2 USA HD bd68 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="INTERNACIONAL", ESPN 2 USA HD bd68 --> NEW ERA
 http://vlc.shickat.me:8000/pid/74e78be7e8aa0cfb4ff4cada0eff0fc74bfdbd68/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="" group-title="INTERNACIONAL", ESPN MX SD 217d --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="INTERNACIONAL", ESPN MX SD 217d --> NEW ERA
 http://vlc.shickat.me:8000/pid/648b6c7d1b1800b6d224f22e26694f4d59ad217d/stream.mp4
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="" group-title="INTERNACIONAL", ESPN MX 3 HD 2042 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN 3" group-title="INTERNACIONAL", ESPN MX 3 HD 2042 --> NEW ERA
 http://vlc.shickat.me:8000/pid/fbc9b6650b886ba0b25c0b9468b625aa6d4a2042/stream.mp4
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="" group-title="INTERNACIONAL", ESPN MX 4 SD 59f0 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN 4" group-title="INTERNACIONAL", ESPN MX 4 SD 59f0 --> NEW ERA
 http://vlc.shickat.me:8000/pid/93953cc10405f53e1d4ea2c30f1aad25e28a59f0/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="INTERNACIONAL", PREMIER SPORTS 1 3565 --> SPORT TV
 http://vlc.shickat.me:8000/pid/75a56863b6fe0407ad4305b4d7ee5643c3923565/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="INTERNACIONAL", PREMIER SPORTS 2 9537 --> SPORT TV
 http://vlc.shickat.me:8000/pid/4903ca695edb64bc72ae29eb85a5333ba0139537/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="INTERNACIONAL", FOX Sports 1 HD (US) 0898 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="INTERNACIONAL", FOX Sports 1 HD (US) 0898 --> SPORT TV
 http://vlc.shickat.me:8000/pid/c9c062941fbecb16ce29437f346ea7177d720898/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="INTERNACIONAL", FOX Sports 2 HD (US) 03b7 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS 2" group-title="INTERNACIONAL", FOX Sports 2 HD (US) 03b7 --> SPORT TV
 http://vlc.shickat.me:8000/pid/cba8d369eac629b577750edb90370cd1c5fb03b7/stream.mp4
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3wnsdd1641510432.png" tvg-id="DE | Sky Sport 1" group-title="INTERNACIONAL", Sky Sport 1 HD (DE) c65d --> SPORT TV
+#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" tvg-id="DE | Sky Sport 1" group-title="INTERNACIONAL", Sky Sport 1 HD (DE) c65d --> SPORT TV
 http://vlc.shickat.me:8000/pid/7c12288663069a12aff58f3f62e8ea47ab78c65d/stream.mp4
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3wg73v1641510487.png" tvg-id="DE | Sky Sport 2" group-title="INTERNACIONAL", Sky Sport 2 HD (DE) 9f69 --> SPORT TV
+#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/c330c871a2f15660efbf06c917fc6af8606874c7.png" tvg-id="DE | Sky Sport 2" group-title="INTERNACIONAL", Sky Sport 2 HD (DE) 9f69 --> SPORT TV
 http://vlc.shickat.me:8000/pid/fc9f1f580da8f641a5991d44b399982a3a069f69/stream.mp4
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="INTERNACIONAL", SKY SPORTS FOOTBALL b26d --> SPORT TV
 http://vlc.shickat.me:8000/pid/8dbe2d515e9131fa311353537736f8c94be9b26d/stream.mp4
