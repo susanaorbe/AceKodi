@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="600"
-#EXTVLCOPT:network-caching=1000
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz" refresh="1200"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://vlc.shickat.me:8000/pid/c1ee6e1e0ef5928d8261f855c417de21794f437d/stream.mp4
@@ -430,14 +429,10 @@ http://vlc.shickat.me:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.m
 http://vlc.shickat.me:8000/pid/fbc39d8a9e5d7c9ac6a1438d440104620f54e09c/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", MOVISTAR PLUS 2 FHD 7003 --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD 7312 --> NEW ERA III
-http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/SyFy%20HD.png?raw=true" tvg-id="SyFy HD" group-title="MOVISTAR", SyFy FHD cdb3 --> NEW ERA
 http://vlc.shickat.me:8000/pid/8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3/stream.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" tvg-id="Ten" group-title="MOVISTAR", Ten TV FHD 4abc --> NEW ERA
 http://vlc.shickat.me:8000/pid/19cab799c86251ae8ae5f4b4faace9b78d784abc/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Torol%C3%A9%20TV.png?raw=true" tvg-id="Torolé TV" group-title="MOVISTAR", TOROLE TV FHD 3b0c --> NEW ERA
-http://vlc.shickat.me:8000/pid/56457cde219abe22cdc3f6c2083a37b0324b3b0c/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/TVG%20Europa%20HD.png" tvg-id="TVG Europa HD" group-title="MOVISTAR", TVG EUROPA HD 21c1 --> NEW ERA
 http://vlc.shickat.me:8000/pid/d48b299bbcd811cfd14159224bf5012a305021c1/stream.mp4
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/XTRM.png?raw=true" tvg-id="XTRM" group-title="MOVISTAR", XTRM FHD 76a0 --> NEW ERA
@@ -526,7 +521,5 @@ http://vlc.shickat.me:8000/pid/039fae21c9e7e5214d3d898cba80863e37e623ac/stream.m
 http://vlc.shickat.me:8000/pid/aa31953b8af44b461102852d5b1247eea95b8050/stream.mp4
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="", FUENTES
-https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/?tab=descargas
-https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
-https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/?tab=descargas,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 
