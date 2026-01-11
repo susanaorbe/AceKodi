@@ -225,7 +225,7 @@ http://vlc.shickat.me:8000/pid/8dbe2d515e9131fa311353537736f8c94be9b26d/stream.m
 http://vlc.shickat.me:8000/pid/eab7aeef0218ce8b0752e596e4792b69eda4df5e/stream.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" group-title="INTERNACIONAL", Ziggo Sport (ES) 0058 --> SPORT TV
 http://vlc.shickat.me:8000/pid/fcd7621df513f600652b4813d5d8fd1daed60058/stream.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" group-title="INTERNACIONAL", 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/ziggo-sport-2-nl.svg" tvg-id="" group-title="INTERNACIONAL", 
 ZIGGO SPORT 2 9027 --> SPORT TV
 http://vlc.shickat.me:8000/pid/868a6187d6aeec65ded84bd777814c9f7b7a9027/stream.mp4
 
