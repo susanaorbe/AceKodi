@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="" refresh="3600"
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
-http://vlc.shickat.me:8000/pid/c1ee6e1e0ef5928d8261f855c417de21794f437d/stream.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
-http://vlc.shickat.me:8000/pid/8677d339ecddd75165c0015025f598b6215974cf/stream.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Primera Federación" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 31d9 --> NEW ERA
 http://vlc.shickat.me:8000/pid/599a2fda91aa55703e2c5a51562d9dbf5d3d31d9/stream.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Primera Federación" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 3a57 --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/b40212c43e96e97542ea00f2129212a054853a57/stream.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
+http://vlc.shickat.me:8000/pid/c1ee6e1e0ef5928d8261f855c417de21794f437d/stream.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
+http://vlc.shickat.me:8000/pid/8677d339ecddd75165c0015025f598b6215974cf/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 FHD ad6d --> NEW ERA
 http://vlc.shickat.me:8000/pid/691739972eb3468cf16b25e84dafdeaa40dead6d/stream.mp4
@@ -69,7 +69,7 @@ http://vlc.shickat.me:8000/pid/f4db7197aa4b9487014ba348fca3f78121ac2cae/stream.m
 http://vlc.shickat.me:8000/pid/9fb99c40a2c45d5c5342b30626eb56140f980612/stream.mp4
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES TDT", GOL FHD 4a3a --> NEW ERA
 http://vlc.shickat.me:8000/pid/b2d560741c006fc5e4a42412bb52dbd25a6a4a3a/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES TDT", REAL MADRID TV HD 891e --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" tvg-id="Real Madrid TV" group-title="DEPORTES TDT", REAL MADRID TV HD 891e --> NEW ERA
 http://vlc.shickat.me:8000/pid/7a955964c91c66311eef9137a96332352dbb891e/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES TDT", TELEDEPORTE FHD 41b2 --> NEW ERA
 http://vlc.shickat.me:8000/pid/2d997da301573c5aba78f969d0d37eb6107941b2/stream.mp4
@@ -186,6 +186,9 @@ http://vlc.shickat.me:8000/pid/efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b/stream.m
 http://vlc.shickat.me:8000/pid/d63d8a57cf471394bfa9f619bbd68b01ae27a801/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="INTERNACIONAL", BT Sport 3 [UK] 2033 --> SPORT TV
 http://vlc.shickat.me:8000/pid/5f966c123759de46dff29c379266b7a403452033/stream.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="INTERNACIONAL", ESPN MX SD 217d --> NEW ERA
+http://vlc.shickat.me:8000/pid/648b6c7d1b1800b6d224f22e26694f4d59ad217d/stream.mp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="INTERNACIONAL", ESPN HD [US] f442 --> SPORT TV
 http://vlc.shickat.me:8000/pid/4b4907de51ec11087d4bed5876f2a0c68264f442/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="INTERNACIONAL", ESPN2 [US] 8394 --> SPORT TV
@@ -200,8 +203,6 @@ http://vlc.shickat.me:8000/pid/d872a44653bf2ad232d5f8476597754b69e3d56c/stream.m
 http://vlc.shickat.me:8000/pid/216d20acdaf01a196eda71c81a7a7d5bcbe5ed58/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="INTERNACIONAL", ESPN 2 USA HD bd68 --> NEW ERA
 http://vlc.shickat.me:8000/pid/74e78be7e8aa0cfb4ff4cada0eff0fc74bfdbd68/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="INTERNACIONAL", ESPN MX SD 217d --> NEW ERA
-http://vlc.shickat.me:8000/pid/648b6c7d1b1800b6d224f22e26694f4d59ad217d/stream.mp4
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN 3" group-title="INTERNACIONAL", ESPN MX 3 HD 2042 --> NEW ERA
 http://vlc.shickat.me:8000/pid/fbc9b6650b886ba0b25c0b9468b625aa6d4a2042/stream.mp4
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN 4" group-title="INTERNACIONAL", ESPN MX 4 SD 59f0 --> NEW ERA
@@ -210,10 +211,6 @@ http://vlc.shickat.me:8000/pid/93953cc10405f53e1d4ea2c30f1aad25e28a59f0/stream.m
 http://vlc.shickat.me:8000/pid/75a56863b6fe0407ad4305b4d7ee5643c3923565/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="INTERNACIONAL", PREMIER SPORTS 2 9537 --> SPORT TV
 http://vlc.shickat.me:8000/pid/4903ca695edb64bc72ae29eb85a5333ba0139537/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="INTERNACIONAL", FOX Sports 1 HD (US) 0898 --> SPORT TV
-http://vlc.shickat.me:8000/pid/c9c062941fbecb16ce29437f346ea7177d720898/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS 2" group-title="INTERNACIONAL", FOX Sports 2 HD (US) 03b7 --> SPORT TV
-http://vlc.shickat.me:8000/pid/cba8d369eac629b577750edb90370cd1c5fb03b7/stream.mp4
 #EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" tvg-id="DE | Sky Sport 1" group-title="INTERNACIONAL", Sky Sport 1 HD (DE) c65d --> SPORT TV
 http://vlc.shickat.me:8000/pid/7c12288663069a12aff58f3f62e8ea47ab78c65d/stream.mp4
 #EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/c330c871a2f15660efbf06c917fc6af8606874c7.png" tvg-id="DE | Sky Sport 2" group-title="INTERNACIONAL", Sky Sport 2 HD (DE) 9f69 --> SPORT TV
