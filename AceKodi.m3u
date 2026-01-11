@@ -521,5 +521,5 @@ http://vlc.shickat.me:8000/pid/039fae21c9e7e5214d3d898cba80863e37e623ac/stream.m
 http://vlc.shickat.me:8000/pid/aa31953b8af44b461102852d5b1247eea95b8050/stream.mp4
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="", FUENTES
-https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/?tab=descargas,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/?tab=descargas,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://github.com/davidmuma/EPG_dobleM/raw/refs/heads/master/EPG_dobleM.xml.gz
 
