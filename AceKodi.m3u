@@ -25,7 +25,6 @@ http://vlc.shickat.me:8000/pid/599a2fda91aa55703e2c5a51562d9dbf5d3d31d9/stream.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 3a57 --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/b40212c43e96e97542ea00f2129212a054853a57/stream.mp4
 
-http://vlc.shickat.me:8000/pid/28205d7c9776b96a1f479c9082e80bd1e18f5afd/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 FHD ad6d --> NEW ERA
 http://vlc.shickat.me:8000/pid/691739972eb3468cf16b25e84dafdeaa40dead6d/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 FHD 9928 --> NEW ERA
