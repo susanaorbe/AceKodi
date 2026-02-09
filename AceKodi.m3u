@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Primera Federación" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 31d9 --> NEW ERA
-http://vlc.shickat.me:8000/pid/599a2fda91aa55703e2c5a51562d9dbf5d3d31d9/stream.mp4
+plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Primera Federación" group-title="1RFEF", PRIMERA FEDERACIÓN FHD 3a57 --> NEW ERA VI
 http://vlc.shickat.me:8000/pid/b40212c43e96e97542ea00f2129212a054853a57/stream.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
@@ -10,7 +10,7 @@ http://vlc.shickat.me:8000/pid/c1ee6e1e0ef5928d8261f855c417de21794f437d/stream.m
 http://vlc.shickat.me:8000/pid/8677d339ecddd75165c0015025f598b6215974cf/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 FHD ad6d --> NEW ERA
-http://vlc.shickat.me:8000/pid/691739972eb3468cf16b25e84dafdeaa40dead6d/stream.mp4
+plugin://script.module.horus?action=play&id=691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 FHD 9928 --> NEW ERA
 http://vlc.shickat.me:8000/pid/4141892f5df7d6474bf0279895ce02b7336c9928/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN 1..4", DAZN 1 HD 8ec7 --> NEW ERA
@@ -122,7 +122,7 @@ http://vlc.shickat.me:8000/pid/b18657f64507cc859cd7edef1aef90feb053e791/stream.m
 http://vlc.shickat.me:8000/pid/8f4f572005ca2557743474087aa622693ba9b5fe/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bb29 --> NEW ERA
-http://vlc.shickat.me:8000/pid/6422e8bc34282871634c81947be093c04ad1bb29/stream.mp4
+plugin://script.module.horus?action=play&id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD a553 --> NEW ERA
 http://vlc.shickat.me:8000/pid/c9c18ae7a9dafba1caae5beb22060f9c92bba553/stream.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD 7494 --> NEW ERA
