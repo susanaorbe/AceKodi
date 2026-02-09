@@ -57,13 +57,13 @@ http://vlc.shickat.me:8000/pid/eb884f77ce8815cf1028c4d85e8b092c27ea1693/stream.m
 http://vlc.shickat.me:8000/pid/7e90956539f4e1318a63f3960e4f75c7c7c5a3b8/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD fd7f --> NEW ERA VI
-plugin://script.module.horus?action=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+plugin://script.module.horus?action=play&id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto" group-title="DAZN BALONCESTO", DAZN BALONCESTO FHD 8f98 --> NEW ERA
-plugin://script.module.horus?action=plugin://script.module.horus?action=217e5f172d4c704c5eec739fed672a53521e8f98
+plugin://script.module.horus?action=play&id=217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2" group-title="DAZN BALONCESTO", DAZN BALONCESTO 2 FHD fb8d --> NEW ERA
-plugin://script.module.horus?action=965b249321adbf3a1459f94c17f624022889fb8d
+plugin://script.module.horus?action=play&id=965b249321adbf3a1459f94c17f624022889fb8d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" tvg-id="DAZN Baloncesto 3" group-title="DAZN BALONCESTO", DAZN BALONCESTO 3 FHD 2cae --> NEW ERA
-plugin://script.module.horus?action=f4db7197aa4b9487014ba348fca3f78121ac2cae
+plugin://script.module.horus?action=play&id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES TDT", GOL FHD 0612 --> NEW ERA
 http://vlc.shickat.me:8000/pid/9fb99c40a2c45d5c5342b30626eb56140f980612/stream.mp4
