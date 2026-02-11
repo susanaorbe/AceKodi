@@ -109,7 +109,6 @@ plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="INTERNACIONAL", ELEVEN DAZN 5 808a
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="INTERNACIONAL", BT Sport 2 [UK] 38fa
 plugin://script.module.horus?action=play&id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="INTERNACIONAL", BT Sport 2 [UK] a801
@@ -121,45 +120,21 @@ plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a40345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" tvg-id="UK | TNT Sports 4" group-title="INTERNACIONAL", BT Sport 4 [UK] 9bce
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="INTERNACIONAL", PREMIER SPORTS 1 3565 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="INTERNACIONAL", PREMIER SPORTS 1 3565
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="INTERNACIONAL", PREMIER SPORTS 1 [UK]
-plugin://script.module.horus?action=play&id=13ddaf59c0f2d760fd3775acc254e13825206eac
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="INTERNACIONAL", PREMIER SPORTS 2 9537 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="INTERNACIONAL", PREMIER SPORTS 2 9537
 plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 1" group-title="INTERNACIONAL", PREMIER SPORTS 2 [UK]
-plugin://script.module.horus?action=play&id=086e4c7ccc0b80e2960a553d04dac1024c7787b9
 
-#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" tvg-id="DE | Sky Sport 1" group-title="INTERNACIONAL", Sky Sport 1 HD (DE) c65d --> SPORT TV
-plugin://script.module.horus?action=play&id=7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" tvg-id="DE | Sky Sport 1" group-title="INTERNACIONAL", Sky Sport 1 HD
-plugin://script.module.horus?action=play&id=00c505e3e33687ecac47ef2a555497e66ebdc5af
-
-#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/c330c871a2f15660efbf06c917fc6af8606874c7.png" tvg-id="DE | Sky Sport 2" group-title="INTERNACIONAL", Sky Sport 2 HD (DE) 9f69 --> SPORT TV
-plugin://script.module.horus?action=play&id=fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 tvg-logo="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" tvg-id="DE | Sky Sport 1" group-title="INTERNACIONAL", Sky Sport 2 HD
-plugin://script.module.horus?action=play&id=2707b05c94cf5d582e8ff71d3b35f8d1219ad0ac
-
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="INTERNACIONAL", SKY SPORTS FOOTBALL b26d --> SPORT TV
-plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
-
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="INTERNACIONAL", SKY SPORTS MAIN EVENT df5e --> SPORT TV
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="INTERNACIONAL", SKY SPORTS MAIN EVENT df5e
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="INTERNACIONAL", SKY SPORTS MAIN EVENT [UK]
-plugin://script.module.horus?action=play&id=78266c15035d0ad8cbc58f821733931e1de434ab
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",  DAZN LA LIGA 1 --> NEW ERA 
-plugin://script.module.horus?action=play&id=19f28f60c908f987b1a03da078e63320d7bf29e8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",   DAZN LA LIGA 1 FHD --> NEW ERA 
-plugin://script.module.horus?action=play&id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 496a --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 496a
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 
-plugin://script.module.horus?action=play&id=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> NEW ERA
-plugin://script.module.horus?action=play&id=98f02b88685f3dd4cd2b4be0a87a689b0d680c74
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1plugin://script.module.horus?action=play&id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1
+plugin://script.module.horus?action=play&id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1plugin://script.module.horus?action=play&id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1plugin://script.module.horus?action=play&id=35b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD f4b1 --> NEW ERA VI
@@ -185,6 +160,10 @@ plugin://script.module.horus?action=play&id=a231b2fa1f7754433efeb8bb8d69d7b9096d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 SD 8d36 --> ELCANO
 plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c8d36
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA",  M+ LALIGA 29e8
+plugin://script.module.horus?action=play&id=19f28f60c908f987b1a03da078e63320d7bf29e8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA",  M+ LALIGA 74ae 
+plugin://script.module.horus?action=play&id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA",  M+ LALIGA FHD --> NEW ERA 
 plugin://script.module.horus?action=play&id=af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD f33y --> NEW ERA II
