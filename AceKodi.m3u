@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="" refresh="3600"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", MOVISTAR PLUS 933b
+plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", MOVISTAR PLUS ab78
+plugin://script.module.horus?action=play&id=d23497596720b47b096ec0f850d6d26a19d1a336
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Primera Federación" group-title="AceStream", PRIMERA FEDERACIÓN 31d9
 plugin://script.module.horus?action=play&id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
@@ -40,96 +45,6 @@ plugin://script.module.horus?action=play&id=908bc5e7ae52afc06e40793b6db749dba11a
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 b1dc 
 plugin://script.module.horus?action=play&id=d669c6cee7173a1c8994075f7050a6526655b1dc
-
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="AceStream", GOL 4a3a
-plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="AceStream", TELEDEPORTE 41b2
-plugin://script.module.horus?action=play&id=2d997da301573c5aba78f969d0d37eb6107941b2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="AceStream", TELEDEPORTE e18a
-plugin://script.module.horus?action=play&id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="AceStream", EUROSPORT 1 cfe9
-plugin://script.module.horus?action=play&id=48a589dbeab3544662fafd79888aada7d834cfe9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="AceStream" group-title="AceStream", EUROSPORT 2 1ecc
-plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2", EUROSPORT 2 a53f
-plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
-
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 1 (DE) 200c
-plugin://script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 2 (DE) 728c
-plugin://script.module.horus?action=play&id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 3 (DE) be0c
-plugin://script.module.horus?action=play&id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 4 (DE) 1f64
-plugin://script.module.horus?action=play&id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 5 (DE) 5809
-plugin://script.module.horus?action=play&id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 6  (DE) dc3f
-plugin://script.module.horus?action=play&id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 7  (DE) e791
-plugin://script.module.horus?action=play&id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 8  (DE) b5fe
-plugin://script.module.horus?action=play&id=8f4f572005ca2557743474087aa622693ba9b5fe
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 a553
-plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 7711
-plugin://script.module.horus?action=play&id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 4aee
-plugin://script.module.horus?action=play&id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 4be2
-plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 9a69
-plugin://script.module.horus?action=play&id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DE | Sky Sport F1" group-title="AceStream", SKY SPORT F1 0076
-plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="AceStream", BEIN SPORTS 1 3fe0
-plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="AceStream", BEIN SPORTS 2 10bc
-plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="AceStream", BEIN SPORTS 3 2cf8
-plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="AceStream", ELEVEN DAZN 1 d51b
-plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="AceStream", ELEVEN DAZN 2 7fce
-plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="AceStream", ELEVEN DAZN 3 df1e
-plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="AceStream", ELEVEN DAZN 4 db98
-plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="AceStream", ELEVEN DAZN 5 808a
-plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="AceStream", BT Sport 2 [UK] 38fa
-plugin://script.module.horus?action=play&id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="AceStream", BT Sport 2 [UK] a801
-plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="AceStream", BT Sport 3 [UK] 2033 
-plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" tvg-id="UK | TNT Sports 4" group-title="AceStream", BT Sport 4 [UK] 9bce
-plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="AceStream", PREMIER SPORTS 1 3565
-plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="AceStream", PREMIER SPORTS 2 9537
-plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
-
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="AceStream", SKY SPORTS MAIN EVENT df5e
-plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="AceStream", DAZN LA LIGA 496a
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
@@ -178,11 +93,6 @@ plugin://script.module.horus?action=play&id=90f7941c6bf7ca4b18084a1dca7bc15b9b17
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="AceStream", LIGA DE CAMPEONES 4 b661
 plugin://script.module.horus?action=play&id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", MOVISTAR PLUS 933b
-plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", MOVISTAR PLUS ab78
-plugin://script.module.horus?action=play&id=d23497596720b47b096ec0f850d6d26a19d1a336
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="AceStream" group-title="AceStream", MOVISTAR DEPORTES c7e5
 plugin://script.module.horus?action=play&id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="AceStream", MOVISTAR DEPORTES 8281
@@ -214,5 +124,103 @@ plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea025517
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="AceStream", MOVISTAR VAMOS b548
 plugin://script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1b548
 
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="AceStream", GOL 4a3a
+plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="AceStream", TELEDEPORTE 41b2
+plugin://script.module.horus?action=play&id=2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="AceStream", TELEDEPORTE e18a
+plugin://script.module.horus?action=play&id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="AceStream", EUROSPORT 1 cfe9
+plugin://script.module.horus?action=play&id=48a589dbeab3544662fafd79888aada7d834cfe9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="AceStream" group-title="AceStream", EUROSPORT 2 1ecc
+plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2", EUROSPORT 2 a53f
+plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 a553
+plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 7711
+plugin://script.module.horus?action=play&id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 4aee
+plugin://script.module.horus?action=play&id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 4be2
+plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="AceStream", DAZN F1 9a69
+plugin://script.module.horus?action=play&id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DE | Sky Sport F1" group-title="AceStream", SKY SPORT F1 0076
+plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="AceStream", BEIN SPORTS 1 3fe0
+plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="AceStream", BEIN SPORTS 2 10bc
+plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="AceStream", BEIN SPORTS 3 2cf8
+plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="AceStream", ELEVEN DAZN 1 d51b
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="AceStream", ELEVEN DAZN 2 7fce
+plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="AceStream", ELEVEN DAZN 3 df1e
+plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="AceStream", ELEVEN DAZN 4 db98
+plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="AceStream", ELEVEN DAZN 5 808a
+plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="AceStream", BT Sport 2 [UK] 38fa
+plugin://script.module.horus?action=play&id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="AceStream", BT Sport 2 [UK] a801
+plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="AceStream", BT Sport 3 [UK] 2033 
+plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" tvg-id="UK | TNT Sports 4" group-title="AceStream", BT Sport 4 [UK] 9bce
+plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="AceStream", PREMIER SPORTS 1 3565
+plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="AceStream", PREMIER SPORTS 2 9537
+plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="AceStream", SKY SPORTS MAIN EVENT df5e
+plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="" group-title="AceStream", TENNIS CHANNEL HD 23ac
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 1 (DE) 200c
+plugin://script.module.horus?action=play&id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 2 (DE) 728c
+plugin://script.module.horus?action=play&id=57f95543ac41656d473b1a27123fc413388a728c
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 3 (DE) be0c
+plugin://script.module.horus?action=play&id=7adbca42657ace1fe228142d351d0896974bbe0c
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 4 (DE) 1f64
+plugin://script.module.horus?action=play&id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 5 (DE) 5809
+plugin://script.module.horus?action=play&id=148921c4dda96df445e253d6f26c4d092bf85809
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 6  (DE) dc3f
+plugin://script.module.horus?action=play&id=005ac522315699bd93bbf743329eb2f3c347dc3f
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 7  (DE) e791
+plugin://script.module.horus?action=play&id=b18657f64507cc859cd7edef1aef90feb053e791
+
+#EXTINF:-1 tvg-logo="https://linuxsat-support.com/images/imported/2016/01/82.png" tvg-id="" group-title="AceStream", Eurosport360 HD 8  (DE) b5fe
+plugin://script.module.horus?action=play&id=8f4f572005ca2557743474087aa622693ba9b5fe
