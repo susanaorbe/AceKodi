@@ -374,7 +374,7 @@ plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c392
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premier%20Sports%202.png" tvg-id="" group-title="AceStream", PREMIER SPORTS 2 4903*N
 plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png" tvg-id="" group-title="AceStream", SKY SPORTS MAIN EVENT eab7*N
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="AceStream", SKY SPORTS MAIN EVENT eab7*N
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="AceStream", Tennis Channel 8091*C
