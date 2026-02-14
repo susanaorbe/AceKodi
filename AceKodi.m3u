@@ -49,13 +49,13 @@ plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3 HD" group-title="AceStream", DAZN 3 HD d1d9*N
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3 HD" group-title="AceStream", DAZN 3 HD 908b*O
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3 HD" group-title="AceStream", DAZN 3 HD 908b*O!
 plugin://script.module.horus?action=play&id=908bc5e7ae52afc06e40793b6db749dba11a1780
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 HD 7e90*N
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 HD d669*O 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 HD d669*O! 
 plugin://script.module.horus?action=play&id=d669c6cee7173a1c8994075f7050a6526655b1dc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" tvg-id="DAZN LaLiga HD" group-title="AceStream", DAZN LaLiga HD cc10*C
