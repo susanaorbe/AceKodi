@@ -6,9 +6,9 @@ plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de0
 plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", Movistar Plus+ HD d234*C
 plugin://script.module.horus?action=play&id=d23497596720b47b096ec0f850d6d26a19d1a336
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", Movistar Plus+ HD 8c67*C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", Movistar Plus+ HD 8c67*C!
 plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", Movistar Plus+ HD b6ff*C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", Movistar Plus+ HD b6ff*C!
 plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="DAZN 1 HD" group-title="AceStream", DAZN 1 HD dddf*C
