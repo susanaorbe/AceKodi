@@ -52,7 +52,7 @@ plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3 HD" group-title="AceStream", DAZN 3 HD 908b*O
 plugin://script.module.horus?action=play&id=908bc5e7ae52afc06e40793b6db749dba11a1780
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 HD 7e90*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 HD 7e90*N
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4 HD" group-title="AceStream", DAZN 4 HD d669*O 
