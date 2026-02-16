@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD" group-title="AceStream", Movistar Plus+ HD ed74*C
 plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de015bb
@@ -357,47 +357,41 @@ plugin://script.module.horus?action=play&id=458a0ddd7d193f6d2750cd14d03a47f47a80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="AceStream", PT | DAZN 5 4dbe*N
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="" group-title="AceStream",  PT | DAZN 6 50b6*N
-plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="" group-title="AceStream", BEIN SPORTS 1 bba1*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="beIN.SPORTS.1.fr" group-title="AceStream", beIN.SPORTS.1.fr bba1*N
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="" group-title="AceStream", BEIN SPORTS 2 d96b*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="beIN.SPORTS.2.fr" group-title="AceStream", beIN.SPORTS.2.fr d96b*N
 plugin://script.module.horus?action=play&id=d96bb710c4e50323e773ce0270567d99837a89fb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="" group-title="AceStream", BEIN SPORTS 2 edb5*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="beIN.SPORTS.2.fr" group-title="AceStream", beIN.SPORTS.2.fr edb5*N
 plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="" group-title="AceStream", BEIN SPORTS 3 2294*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="beIN.SPORTS.3.fr" group-title="AceStream", beIN.SPORTS.3.fr 2294*N
 plugin://script.module.horus?action=play&id=229419659a062e80a088bb049137dafa9c9952fe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="" group-title="AceStream", BEIN SPORTS 3 731b*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="beIN.SPORTS.3.fr" group-title="AceStream", beIN.SPORTS.3.fr 731b*N
 plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premier%20Sports%201.png" tvg-id="" group-title="AceStream", PREMIER SPORTS 1 75a5*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premier%20Sports%201.png" tvg-id="Premier.Sports.1.HD.uk" group-title="AceStream", Premier.Sports.1.HD.uk 75a5*N
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premier%20Sports%202.png" tvg-id="" group-title="AceStream", PREMIER SPORTS 2 4903*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premier%20Sports%202.png" tvg-id="Premier.Sports.2.HD.uk" group-title="AceStream", Premier.Sports.2.HD.uk 4903*N
 plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png" tvg-id="" group-title="AceStream", SKY SPORTS MAIN EVENT eab7*N
-plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="" group-title="AceStream", TNT Sports 1 fc50*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="TNT.Sports.1.HD.uk" group-title="AceStream", TNT.Sports.1.HD.uk fc50*N
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="" group-title="AceStream", TNT Sports 1 efc6*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="TNT.Sports.1.HD.uk" group-title="AceStream", TNT.Sports.1.HD.uk efc6*N
 plugin://script.module.horus?action=play&id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="" group-title="AceStream", TNT Sport 2 d63d*N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="TNT.Sports.2.HD.uk" group-title="AceStream", TNT.Sports.2.HD.uk d63d*N
 plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="" group-title="AceStream", TNT Sport 2 19c5*O
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="TNT.Sports.2.HD.uk" group-title="AceStream", TNT.Sports.2.HD.uk 19c5*O
 plugin://script.module.horus?action=play&id=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="" group-title="AceStream", TNT Sport 3 5f96*N 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="TNT.Sports.3.HD.uk" group-title="AceStream", TNT.Sports.3.HD.uk 5f96*N 
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" tvg-id="" group-title="AceStream", TNT Sport 4 fc50*O
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png" tvg-id="TNT.Sports.4.HD.uk" group-title="AceStream", TNT.Sports.4.HD.uk fc50*O
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360.png" tvg-id="" group-title="AceStream", Eurosport360 HD 1 (DE) 22df*N
